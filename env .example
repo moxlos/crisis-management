@@ -1,0 +1,13 @@
+# Crisis Management System - Environment Configuration
+# Copy this file to .env and customize as needed
+
+# Flask Configuration
+# Set to 'true' for development, 'false' for production
+FLASK_DEBUG=false
+
+# Server host and port
+FLASK_HOST=127.0.0.1
+FLASK_PORT=5000
+
+# Database path (relative to project root)
+DB_PATH=app/emergency_data.db
