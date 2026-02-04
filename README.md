@@ -11,6 +11,12 @@ This system models the assignment of emergency response resources (e.g., fire st
 - **Full-Stack Development**: Flask REST API backend + Streamlit dashboard frontend
 - **Data Visualization**: Interactive maps (Folium), charts (Plotly), and analytics
 
+<img width="2498" height="1229" alt="Screenshot from 2026-02-01 3" src="https://github.com/user-attachments/assets/b59e9654-2cc1-48b8-b635-56cc249bf59d" />
+<img width="2498" height="1229" alt="Screenshot from 2026-02-01 2" src="https://github.com/user-attachments/assets/fd2bf5d6-5dac-419c-ae1e-c22ba5561fb5" />
+<img width="2498" height="1229" alt="Screenshot from 2026-02-01 " src="https://github.com/user-attachments/assets/75c8e425-00f3-4029-b353-5ad54900ce4b" />
+
+
+
 ### Use Case: Strategic Planning Tool
 
 This application is designed as a **strategic planning and analysis tool** rather than real-time dispatch. Example scenarios:
